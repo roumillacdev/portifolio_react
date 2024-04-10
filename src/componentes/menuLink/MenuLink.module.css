@@ -1,0 +1,15 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-fonte-principal);
+
+}
+.link:hover {
+    transform: translate(0, -0.2rem);
+}
+.linkDestacado{
+    background-color: #176B87;
+    border-radius: 10px ;
+    color: white;
+    padding: 2px 8px
+}
